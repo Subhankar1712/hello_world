@@ -1,0 +1,3 @@
+@echo off
+echo Running custom automation...
+REM Add your automation commands here
